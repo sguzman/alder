@@ -1,0 +1,348 @@
+#+TITLE: Alder GSE
+#+DATE: 2021-11-10
+#+AUTHOR: Salvador Guzman
+#+EMAIL: guzmansalv@gmail.com
+#+OPTIONS: text:t
+#+CATEGORY: Official
+#+CATEGORY: Alder
+#+LANGUAGE: en
+
+* Introduction
+** Who I am
+  My name is Salvador Guzman and I intend to revolutionize pedagogy. As a proud
+  graduate from UCSB’s undergraduate program, I intend to take the lessons I
+  learned from my experiences as a student with me and augment the efficacy of
+  education for the benefit of future scholars.
+
+** Mission Statement
+  My degree in Computer Science, Bacherlor’s of Science, confers a profound
+  vantage point from which I can the future of education unfold. With my
+  academic specialty as a life long self-learner, and my technical expertise
+  from being on the bleeding of technological development, I want to be part of
+  the generations of teachers that usher in the next era of pedagogical
+  developments. And with my passion for education, social astuteness and my
+  initiative-taking proclivities, I am the best candidate to bear the burdern of
+  bringing the subsequent age of pedagogical progress to fruition.
+
+** Nature of this document 
+  The following is my notes concerning my application to the Alder Graduate
+  School of Education teacher residency program. They are written by me for the
+  purposes of structuring what my presention will consist of. They are organized
+  and structurally outlined in response to the document presented to me prior to
+  the interview. Thus, each section will explicitly reference the relevant
+  document. 
+
+* Notes
+** Salvador’s Demo Lesson Notes
+*** Subject
+  Mathematics
+*** Grade Level
+  6th Grade
+*** Date
+  2021-11-10 Wed
+*** Body
+**** Planning and Assessment
+  - A. Identifies a clear purpose or objective (written on
+lesson plan, board, or verbally stated)
+
+  Compile relevant state education goals and objects that describe pedagogical
+  relevant goals. Produce documentation that outlines the intersection between
+  formal objective goals and my preferred educational objectives. With that
+  documetation in hand, I will then present that information to the
+  students. Since I will be closely following the contours of the document,
+  this will be relevant information that should be readily accessible to the
+  students. I will provide that information digitally in the form of website
+  but also have on hand paper versions in case the students would like a
+  hard-copy to peruse at their own leisure.
+
+  - B. Organizes a clear, rational plan to meet that objective (either turns in
+    a lesson plan or writes/posts an agenda)
+
+   As state before I, I have ambitious curriculum plans for my prospective
+  classes. I am very much of the mind that advance material, specifically but
+  not limited to mathematics, can be presented to younger students. I know
+  this is possible not just based on recent pedagogical developments but from
+  my own experiences of learning higher mathematics by myself. Given that I
+  taught myself advance mathematics solely from resources found on the
+  internet for no other reason than for the pleasure of knowing, I know how to
+  pedagogically structure a curriculum to accomplish learning objects
+  competently.
+
+  That said, I understand the nature of the offical environment that I will be
+  operating in. Ultimately, I am a servant of the Californian education
+  establishment and thus will serve in that capacity in the classroom. Despite
+  whatever idealistic of lofty ambitions may accompany me on my journey to be
+  an instructor, I will nevertheless be responsible for faithfully executing
+  the the pedagogical goals of the state of California. California justly
+  prides itself in being a leader in educational development and provides the
+  perfect environment for achieving long term education outcomes. Our
+  students, who come from many and diverse backgrounds, should demand the best
+  that modern pedagogical instruction has to offer. And regardless of family
+  economic and social status, all of our future scholars should be able to
+  achieve educational attainment given California’s ambitious education
+  program.
+
+  Thus, I may be idealistic and passionate at heart, but I still hold myself
+  accountable to the the aspirations of California.
+    
+  - C. Plans a way to assess student mastery of objectives. (It is planned, it
+    doesn’t have to be executed to get this point)
+
+   In order to accomplish the noble vision of the state of California’s
+   education program and policy objectives, I will emphatically incorporate the
+   use technology in the classroom. As a scholar of technology with a degree in
+   a hard science, I have come to appreciate the place of technology in the
+   modern world. To say that the modern world’s existence and maintenance is
+   contingent on technology and the innovative progresion thereof is not
+   emphasis enough. I see technology as a force for good that can wielded for
+   the benefit of all.
+
+   Despite it’s the somewhat raptuous rhetoric that often accompanies
+   corresponding discouse, there is some small amount of truth in the myths. I
+   am of the opinion that whatever social dislocations that occur in society at
+   large by the widespread will eventually be amelioated when we learn to adapt
+   to to technology in a bilateral fashion. And intoducing technology early as
+   part of the instuctional process will help students familiarize themselves
+   with usage thereof. Students will come to see technology as a necessary aid
+   and plan their lives around it. They will see technology for the miracle for
+   it is and be better prepared for our technological future.
+
+   Thus, assessing students on mastery of objectives will preferably be
+   computerized in some way, automated and accessible to the students in some
+   way. Although I cannot present specifics, rest assured that whatever methods
+   I have of evaluating academic performance will be as efficient as possible
+   as to relieve myself of more free time to be able to spend with
+   students.
+
+  - D. Plans appropriately paced activities to meet the objective within
+    allotted time. (finishes what they planned and pacing seems appropriate)
+
+   As aforementioned, tech will make a strong presence in my prospective
+   classroom. Technology will feature in future designs I have in mind to
+   objectively analysize and respond to course work loads.. As someone who has
+   worked in a classroom setting for some time, I understand how the alotment
+   of time is a serious concern. Ensuring one has the time to pursue whatever
+   classroom setting objectives is of vital importance. Despite my idealistic
+   temperament, I acknowledge that ultimately praticality sets the pace of what
+   can be accomplished.
+
+   Given the use of technological pedagogical tools of instruction, I will
+   measure how long students take to complete what assignments. This data will
+   factor strongly in adapting curriculum plans to the students capacities and
+   abilities. In this way, I can assign as course work that will accomplish any
+   educational attainment goals, as well as comfortably dovetailing the
+   abilities and talents of the batch of students that I work with.
+
+   The great aspect of such a system is that this pedagogical policy
+   acclimation can be set differently depending on the types of students I
+   interact with. This means I can easily maintain multiple policies for
+   different classes without any forseeable challenges.
+
+   Although I am short on specific implementations of this strategy, as such a
+   thing has failed to be realized in the classroom setting, I confident in my
+   ability to either procure such a program through the attainment of education
+   software, or develop my own such software. Something like that is feasible
+   for me since I have a history of developing and delivering high quality
+   software and can easily assemble my own team if needed.
+
+   I encourage you to pepper me with questions if anything of the
+   aforementioned pedagogical strategies invite formal speculative
+   elaboration. I would be more than happy to share my vision.
+
+**** Learning Environment 
+   - A. Creates a positive, respectful environment (interactions are
+     respectful and positive)
+
+   Attending all social settings wherein members possess different
+   energy levels and temperaments is the necessity of ensuring that the
+   intended pupose of said gatheing is functionally executed. What this
+   refers to is the proper social conduct of the participants. When working
+   with children, some degree of patience and composure is required. Given
+   the general excitable character of youth, appropriate approaches must be
+   developed with the specific pupose of maintaining social harmony.
+
+   Perfect relations are maybe not be achievable within the context and capacity
+   of the classroom setting but such a proclamation should naturally invite
+   some schema for maximizing the the smooth function of educational
+   discouse. Thus, any action that interferes with instruction of the
+   classroom merits a response from the teacher.
+
+   How will I achieve this objective? I will ensure that the classroom setting
+   will be a site of learning and instruction of future scholars by
+   preserving the sancitity of the learning environment. I will make the
+   expectations of what sort of behavior is appropriate in the
+   classroom. This information will be presented to the students and
+   available as well in a formal document that students may reference at
+   their leisure.
+
+   Formal guidelines for appropriate behavior will be made a communal
+   “property.“ What this entails is that any behavior that is deemed to
+   deviated from the formal guidelines will be interpreted as a violation of
+   a communal norm. That is, a classroom is where students come to learn and
+   the inability to compose oneself properly within that setting is a social
+   injury.
+
+   While this sounds a bit speculative, with any specific implementation
+   left tentatively pending for now, I prefer this communal approach to
+   monitoring behavior. In this way, students will come to identify with the
+   classroom and the pedagogical mission that is attempted therein. I want
+   strongly for students to identify with the education establishment and
+   see themselves as inheritors of a long and proud educational legacy. And
+   presenting social deviation in this light will aid me to achieve that
+   end. It will furthe the collectivization of the students and provide the
+   motivation for them to see themselves as a group and to identify with
+   their fellow students.
+
+   Please prod me further on this section. I would love to share my vision
+   with you!
+
+   - B. Clearly explains rules and expectations
+
+   As stated previously, I plan to present what the expectations are
+   for the students in terms of behavior. The idea is that in order for
+   them to receive a world class education, I will need their help to
+   preserve the spirit of the classroom. Constituting that ensuring that
+   students encourage their fellow students to follow the
+   guidelines. Making me aware of instances of deviation of which I was
+   not aware of is another useful thing that they will be able to help me
+   with. Making them the spiritial guardians of social cohesion will yield
+   an invaluable benefit in the classroom.
+
+   I will hold back on authoring specific guidelines for now as I would
+   rather tailor them to the specific environment. Rest assured, the usual
+   admonistments about treating fellow students with respect and
+   respecting property or possessions that are not theirs would apply.
+
+   - C. Uses an attention getting signal
+       
+   Given my dependence on technology, it should not be a surprise
+   that I will depend heavily on a digitalized presentation. This will
+   include the use of but not limitation thereof of slide shows, computer
+   demonstratons, and evocative graphical programs.
+
+   This is with the intention of completely engrossing the students in the
+   curriculum. My assumption is that technology will capture their
+   attention cohesively since the disposition of the students will be some
+   prior interaction with technology already. This should aid me.
+
+
+   - D. Prepares materials (visuals, handouts, and/or kinesthetic learning
+    tools)
+
+   I currently work as a Small Group Instructor in a classroom
+   setting. At my particular school, our students have access to
+   Chromebooks which they use for educational instruction, as well as for
+   leisure when they have accomplished their given tasks.
+
+   I feel the use of semi-personal computers is a huge benefit in the
+   classroom. The students obviously prize use of computers in school and I
+   feel instruction with access to computes democratizes access to
+   computers. Now, whether or not students have access to technology at
+   home is ameliorated.
+
+   With this setup, I can present infomation relating to class instruction
+   digitally. This will make any pedagogical exercises more efficient will
+   allow the students to directly interact with any visual exercises that I
+   may demonstrate for their benefit. This could be slide shows, static
+   images, infographics, simuations, demonstations, etc. The possibilities
+   are endless.
+
+   Access to digital programs will allow the catering to the specific
+   pedagogical sensibilities of the students. Thus, physical simulations,
+   for example, would allow students to directly interact with physical
+   systems to properly build up the intuition needed to understand the
+   mathematical model undergirding it.
+
+**** Instruction 
+   - A. Includes more than one instructional technique appropriate to the
+     objective (Mini Lesson, Group Work, Class Discussion, instructional
+resources, student presentation)
+
+   In keeping with the spirit of my ambitions for the class, I plan to
+   be inventive in terms what instructional techniques I end up using in the
+   classroom. While I will definitely make use of the techniques discussed
+   above, I am not shy to create my own hybrid techniques if necessary.
+
+   Group works are one type of instruction that I will lean heavily on. I
+   want students to feel as if they are part of an educational community and
+   pursue goals thereof in a communal manner. This would invite fellow
+   students to help each other out when they see another fellow student in
+   need. This sort of group structue is what I truely desire and I think
+   will invite all students to pitch in what they can fo group-oriented
+   work.
+
+   I also plan to incorporate some more experimental techniques where I let
+   students grade and assign other students a grade and present their
+   reasoning aftewards. Basically, I want to lay down the foundation for
+   ensuring students have a reasonable appetite for personal and
+   professional development. 
+
+   - B. Delivers engaging instruction: Dynamic presentation skills (e.g. voice
+     modulation, eye contact, hand gestures) and at least one Engagement
+     Strategy (Cold Call, Choral Response, Think-Pair-Share everybody writes,
+     Hand Signals, whole body movement)
+
+   You can expect that whatever classroom that I lead to be as engaging
+   as is reasonably appropriate. I realize that pedagogical instruction is
+   only as affective when one is able to impress upon the students the
+   excitement of leaning. In order to do that, I plan to make use evocative
+   delivery and to invoke the dynamism of motion. I want students to feel
+   the energy and excitement I feel whenever I step into a classroom of
+   young pupils eager to learn.
+
+    I will be short on specifics in this section, suffice it to say, I am a
+    strong analyzer. I will try out different techniques and strategies for
+    instruction and pursue those that yield the most plentiful education
+    achievements. My approach is agile enough and adaptable on purpose.
+
+    - C. Asks variety of questions across Bloom’s Taxonomy
+
+    While I am not the most familiar with Bloom’s Taxonomy, I have
+    completed coursework in the past, both in grade school and in college
+    that espoused the framework. Also, I have helped students in my current
+    classroom finish coursework that adhered the guidelines of that
+    particular taxonomy.
+
+    Not only that, my academic history of being a strong writer and reader
+    will easily render the taxonomy accessible for any future pedagogical
+    excusions. I am a quick learner and love pedagogical theory; I hope
+    underscores that whatever unfamiliarity I may have with a particular
+    theoretical tool of instruction will not mar my otherwise pristine
+    academic record. Rest assured, Bloom’s Taxonomy will make an appearance
+    in my prospective classroom.
+
+    - D. Determines whether students met the objective
+
+    Finally, with all that I said, I hope have expressed even a modicum
+    of the excitement I feel for being a teacher. Truely, teaching is one of
+    my passions. This is the case even though I have been main recipient of
+    my pedagogical instruction. In fact, I think being a self-taught lifelong
+    learner accrues benefits that would not have otherwise have revealed
+    themselves. As a lover of knowledge, I spent counless hours learning
+    arcane subjects and fatasizing about how I would instruct a hypothetical
+    class around the subject. Always, I would think about the efficacy and
+    enjoyment of the education excursion.
+
+    And it is that knowledge and experience and energy that I plan to bring
+    with me to the classroom. I want students to be excited about
+    learning. Learning should be fun; it’s that simple. For all the
+    technology and efficacy in the world, it means little if you don’t see
+    your own passion for teaching and knowledge reflected in the face of evey
+    young pupil you instruct. It is that reflection that I intend to capture.
+
+    Inside every student is a scholar wanting to learn. My want to awaken
+    and make my future pupiles cognizant of that desire. This is not just for
+    myself but for their own futures.
+
+    I want to be able to interview the students on one on one settings and
+    ask them if they feel as if they sufficiently achieved the objectives of
+    the classroom. While that feedback may or may not ultimately factor in
+    their grade for the classroom, what they are able to verbalize about
+    their capacities will be a reasonable measure of how much they learned
+    under my instruction.
+
+    What I lack in specifics I plan to make up with passion and excitement. I
+    want nothing more than to serve in an educational capacity for the state
+    of California. I assure you, I will make education in our state the envy
+     of the world.
+
